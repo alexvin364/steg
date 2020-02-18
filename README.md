@@ -1,1 +1,2 @@
-Для распознавания применяются SPAM features
+SMLS
+Стегоанализ изображений с помощью RandomforestClassfier и SPAM feature selection.
